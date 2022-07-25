@@ -5,7 +5,7 @@
 
 # Project 1.5 - Read in the novel Pride and Prejudice by Jane Austen from a local file and count the number of occureances for each word
 
-# Project 2 - Coming this week - using the well known "Northwinds" database to run create joins and run queries.
+# Project 2 -  Using  "Chinnok" database to create joins and run queries.
 
 # Project 3 - Sqlite using python. Create several databases, complete joins and run queries. (mini project)
 
