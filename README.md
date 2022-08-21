@@ -9,5 +9,5 @@
 
 # Project 3 - Sqlite using python. Create several databases, complete joins and run queries. (mini project)
 
-# Project 4 - Coming Soon - Using spark and pyspark. (mini project)
+# Project 4 - Using Colab to run a notebook using pySpark and City of Chicago Portal.  This is part of the Skill Share course SparkSQL and Hadoop (for Data Science)
 
